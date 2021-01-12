@@ -1,0 +1,63 @@
+
+header img, header ul, header li{
+  display: inline;
+}
+header li{
+  margin: 0 15px 0 15px;
+}
+main{
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+  align-content: center;
+}
+header{
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+  align-content: center;
+}
+img{
+  padding: 15px;
+}
+div img{
+  display:inline-block;
+}
+
+header ul{
+  float: right;
+  margin-top: 40px;
+  margin-right: 40%;
+}
+#div2{
+  display: inline;
+}
+#div2 img{
+  float: left;
+  display: inline;
+}
+div p{
+  float: right;
+  overflow: scroll;
+  margin: 30px 150px 0 0px;
+  width: 480px;
+  height: 350px;
+}
+#co3{
+  display: inline;
+}
+input{
+  margin: 15px 30px 0 15px;
+}
+input:hover{
+  background-color: blue;
+}
+footer{
+  margin-left: 115px;
+  margin-right: 350px;
+  width: 73%;
+  background-color: #ddd;
+  margin-top:30px ;
+  height: 70px;
+  margin-bottom: 30px;
+}
